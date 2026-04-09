@@ -1,4 +1,3 @@
-Here is the `README.md` with a complete set of examples for each supported file type and its usage, including a demo for all the supported files:
 
 ---
 
